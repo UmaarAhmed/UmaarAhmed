@@ -12,6 +12,11 @@
   <small>Full Stack Developer • UI/UX Enthusiast • GSAP Animator 🇵🇰</small>
 </h1>
 
+<!-- Your custom GIF -->
+<p align="center">
+  <img src="https://share.google/images/IWp6dX1AuTpNNTH5F" width="400" alt="Top GIF"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=16F2B3&center=true&vCenter=true&width=900&lines=I+build+beautiful+interfaces+%F0%9F%92%BB;I+turn+ideas+into+interactive+experiences%F0%9F%94%A5" alt="typing"/>
 </p>
