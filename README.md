@@ -13,8 +13,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animations%2Fprogrammer&psig=AOvVaw2lbExCuYxM9t8sFbPmoKO9&ust=1763029791891000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD2hPuz7JADFQAAAAAdAAAAABAW" width="600" alt="Top Banner GIF"/>
+  <img src="https://raw.githubusercontent.com/umaarahmed/my-profile-assets/main/top-banner.gif" width="600" alt="Top Banner GIF"/>
 </p>
+
 
 
 <p align="center">
