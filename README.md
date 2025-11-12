@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif](https://share.google/images/PNfcX2e4Yl0QoOmP5)" width="350" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" />
 </p>
 
 ---
