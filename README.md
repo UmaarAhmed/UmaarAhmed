@@ -12,10 +12,6 @@
   <small>Full Stack Developer • UI/UX Enthusiast • GSAP Animator 🇵🇰</small>
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umaarahmed/my-profile-assets/main/top-banner.gif" width="600" alt="Top Banner GIF"/>
-</p>
-
 
 
 <p align="center">
@@ -116,10 +112,16 @@
 ## ⚡ Fun GIF Section
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="fun gif 1"/>
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" alt="fun gif 2"/>
-  <img src="https://media.giphy.com/media/3orieVVSGhKp8wQYMc/giphy.gif" width="200" alt="fun gif 3"/>
+  <!-- Developer typing animation -->
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="200" alt="typing animation"/>
+
+  <!-- Code flying / matrix effect -->
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="code animation"/>
+
+  <!-- Laptop / workspace animation -->
+  <img src="https://media.giphy.com/media/26xBRa0QhJ3gfzYxu/giphy.gif" width="200" alt="workspace animation"/>
 </p>
+
 
 ---
 
