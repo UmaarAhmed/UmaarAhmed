@@ -112,15 +112,11 @@
 ## ⚡ Fun GIF Section
 
 <p align="center">
-  <!-- Programmer typing code -->
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut1mVy/giphy.gif" width="200" alt="programmer typing"/>
-
-  <!-- Animated code flying / matrix effect -->
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200" alt="code animation"/>
-
-  <!-- Developer workspace / coding setup -->
-  <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="200" alt="workspace coding"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="coding animation 1"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" alt="coding animation 2"/>
+  <img src="https://media.giphy.com/media/3orieVVSGhKp8wQYMc/giphy.gif" width="200" alt="coding animation 3"/>
 </p>
+
 
 
 
