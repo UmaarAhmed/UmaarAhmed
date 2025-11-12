@@ -109,14 +109,6 @@
 
 ---
 
-## ⚡ Fun GIF Section
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut1mVy/giphy.gif" width="200" alt="programmer typing code"/>
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200" alt="animated code stream"/>
-  <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="200" alt="developer workspace coding"/>
-</p>
-
 
 
 
