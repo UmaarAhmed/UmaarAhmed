@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  A Passionate Frontend Developer & UI Enthusiast from Pakistan 🇵🇰
+  A Passionate Full Stack Developer & UI Enthusiast from Pakistan 🇵🇰
 </h3>
 
 <p align="center">
